@@ -1,2 +1,2 @@
-# linalg
-Sometimes it's nice to re-invent the wheel.
+# Linear Algebra + Python
+Notes and applications for linear algebra, accompanied by python.
